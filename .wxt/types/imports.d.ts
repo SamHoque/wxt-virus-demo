@@ -19,7 +19,6 @@ declare global {
   const i18n: typeof import('#i18n')['i18n']
   const injectScript: typeof import('wxt/client')['injectScript']
   const storage: typeof import('wxt/storage')['storage']
-  const useActiveIndicator: typeof import('C:/Users/princ/Downloads/wxt-starter-main/src/hooks/useActiveIndicator')['useActiveIndicator']
   const useAppConfig: typeof import('wxt/client')['useAppConfig']
   const useCallback: typeof import('react')['useCallback']
   const useContext: typeof import('react')['useContext']

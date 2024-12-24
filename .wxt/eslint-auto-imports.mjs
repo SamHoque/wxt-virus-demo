@@ -17,7 +17,6 @@ const globals = {
   "i18n": true,
   "injectScript": true,
   "storage": true,
-  "useActiveIndicator": true,
   "useAppConfig": true,
   "useCallback": true,
   "useContext": true,
